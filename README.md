@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=higordevbr&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=higordevbr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&custom_title=Linguagens%20Usadas%20" height="150" alt="languages graph"  />
 </div>
 
@@ -43,12 +43,8 @@
 
 ###
 
-<img align="right" height="130" src="https://media.tenor.com/trwMzHIDQlQAAAAj/hack-hacking.gif"  />
+<img align="center" height="130" src="https://media.tenor.com/trwMzHIDQlQAAAAj/hack-hacking.gif"  />
 
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/higordevbr/higordevbr/output/snake.svg" alt="Snake animation" />
-
-###
